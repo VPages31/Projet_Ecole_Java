@@ -1,10 +1,7 @@
-/**
- * 
- */
 package mains;
 
 /**
- * @author WeedXantrax
+ * @author Vincent
  *
  */
 public class MainEcole {
@@ -13,8 +10,9 @@ public class MainEcole {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		
+		 
 	}
 
 }
